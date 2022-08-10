@@ -1,0 +1,34 @@
+body{
+  background-color: rgba(200,100,200,0.5)
+  
+}
+#frst-p{
+  margin-left: 40%;
+}
+.card-title{
+    font-size: xx-large;
+    font-weight: 700;
+    font-style: italic;
+}
+.card-body{
+  color: rgba(rgb(0, 255, 60), rgb(68, 0, 128), rgb(255, 0, 51), alpha);
+}
+.card-text {
+  /* font-size: 1.2rem; */
+  color: rgba(253, 170, 6, 0.974);
+  font-weight: bold;
+  font-size: xxx-large;
+  font-style: italic;
+  font-weight: 600;
+}
+#note-priority{
+  color:rgba(255, 0, 144, 0.749);
+}
+#notes-desc{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  
+}
